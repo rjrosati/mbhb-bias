@@ -1,0 +1,17 @@
+[project]
+name = "mbhb-bias"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "astropy>=7.1.0",
+    "chainconsumer>=1.2.2",
+    "eryn>=1.1.14",
+    "h5py>=3.14.0",
+    "jupyterlab>=4.4.6",
+    "lisaanalysistools>=1.0.15",
+    "matplotlib>=3.10.5",
+    "nb-clean>=4.0.1",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "scipy>=1.16.1",
+]
